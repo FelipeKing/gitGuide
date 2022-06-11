@@ -17,3 +17,5 @@ git add fileName                   //adiciona arquivo/pasta para ser levantado
 git commit -m "criando projeto"    //comenta arquivos para serem levados para a branch remota
 
 git push origin <nomeBranch>       // joga para a branch remota
+
+git status                         
