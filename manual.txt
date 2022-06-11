@@ -1,0 +1,19 @@
+usando GIT básico
+
+iniciar
+git init
+git remote add origin <link>       //sem setas abrindo repositorio remoto
+git branch -M main
+
+
+
+comandos
+
+git pull origin <nomeBranch>       //puxar repositório
+
+git add .                          //adiciona todos os arquivos
+git add fileName                   //adiciona arquivo/pasta para ser levantado
+
+git commit -m "criando projeto"    //comenta arquivos para serem levados para a branch remota
+
+git push origin <nomeBranch>       // joga para a branch remota
