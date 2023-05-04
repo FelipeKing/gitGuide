@@ -9,6 +9,10 @@ git branch -M main
 
 comandos
 
+git branch new_branch              //criar branch
+
+git checkout outra_branch          // vai para a outra branch
+
 git pull origin <nomeBranch>       //puxar repositório
 
 git add .                          //adiciona todos os arquivos
